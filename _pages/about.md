@@ -27,11 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my wesbite! I'm a second-year Ph.D. economics student at Emory University. My commitment is basically explore knowledge related to the economic research space. I'm an entusiasthic math learner.  
+Welcome to my website! I’m a second-year Ph.D. student in Economics at Emory University. I’m originally from Ecuador, where I earned a B.A. in Economics from [ESPOL](https://www.espol.edu.ec/es). I also hold an M.Sc. in Economics from [EAFIT](https://www.eafit.edu.co/) University in Colombia. During my time at EAFIT, I worked as a research and teaching assistant in the Department of Macroeconomics and Financial Systems.
 
+I’m passionate about economic research, with a strong interest in financial economics and econometrics. I’m also an enthusiastic learner of mathematics and constantly seek to deepen my understanding in this area.
 
-Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!--Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
