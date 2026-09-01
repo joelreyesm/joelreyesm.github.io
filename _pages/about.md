@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I’m a second-year Ph.D. student in Economics at Emory University. I’m originally from Ecuador, where I earned a B.A. in Economics from [ESPOL](https://www.espol.edu.ec/es). I also hold an M.Sc. in Economics from [EAFIT](https://www.eafit.edu.co/) University in Colombia. During my time at EAFIT, I worked as a research and teaching assistant in the Department of Macroeconomics and Financial Systems.
+Welcome to my website! I’m a third-year Ph.D. student in Economics at Emory University. I’m originally from Ecuador, where I earned a B.A. in Economics from [ESPOL](https://www.espol.edu.ec/es). I also hold an M.Sc. in Economics from [EAFIT](https://www.eafit.edu.co/) University in Colombia. During my time at EAFIT, I worked as a research and teaching assistant in the Department of Macroeconomics and Financial Systems.
 
-I’m passionate about economic research, with a strong interest in optimal transport and causal inference. I’m also an enthusiastic learner of mathematics and constantly seek to deepen my understanding in this area.
+I’m passionate about economic research, with a strong interest in optimal transport, causal inference and networks. I’m also an enthusiastic learner of mathematics and constantly seek to deepen my understanding in this area.
 
 <!--Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
