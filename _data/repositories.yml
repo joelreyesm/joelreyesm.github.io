@@ -1,14 +1,19 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - joelreyesm
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - joelreyesm/joelreyesm.github.io
+  - joelreyesm/ECON-521-Econometrics-of-Policy-Analysis-and-Causal-Inference-Lab
+  - joelreyesm/ECON-524-Big-Data-Econometrics
+  - joelreyesm/Kernel-sieve-regresssion-example
+  - joelreyesm/MW_effects_repli_and_exten
+  - joelreyesm/DRIVE-estimator
+  - joelreyesm/EntropicGromovWasserstein_J
+  - joelreyesm/GWnets_j
+  - joelreyesm/DynBalancing-JR
+  - joelreyesm/quantitative-portfolio-optimization-joel
+  - joelreyesm/Computational_Econ_Kahou
+  - joelreyesm/manim-joel
+  - joelreyesm/claude-mem-jr
